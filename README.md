@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @awsumturtle
-- 👀 I’m interested in C# Game Development and other fun stuff.
-- 🌱 I’m currently learning MonoGame
+- 👀 I’m interested in C# Game Development, Python and maybe CPP!
+- 🌱 I’m currently learning Pygame and Python discord bots.
