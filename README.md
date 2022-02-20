@@ -1,4 +1,4 @@
-Coffee enjoyer.
+Coffee enjoyer. Programming is a hobby for me, not a job.
 
 ![](https://komarev.com/ghpvc/?username=awsumturtle&color=green)
 
