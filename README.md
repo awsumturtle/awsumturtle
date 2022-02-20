@@ -1,5 +1,7 @@
 Coffee enjoyer.
 
+![](https://komarev.com/ghpvc/?username=awsumturtle&color=green)
+
 C# and Python enthusiast.
 Currently interested in HTML, CSS, JavaScript, PHP (full stack developing for own entertainment)
 
