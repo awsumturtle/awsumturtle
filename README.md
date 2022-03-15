@@ -1,7 +1,5 @@
 Coffee enjoyer. Programming is a hobby for me, not a job.
 
-![](https://komarev.com/ghpvc/?username=awsumturtle&color=green)
-
 C# and Python enthusiast.
 
 Appreciate my work? All of my work are free to use and always will be, however I still do have a ko-fi page incase you are feeling generous =) (for longer coding sessions I need coffee).
