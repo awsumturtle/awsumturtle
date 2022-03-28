@@ -1,10 +1,10 @@
 Coffee enjoyer. Programming is a hobby for me, not a job.
 
-Currently learning game hacking and ce
+Currently learning game hacking (Cheat Engine, Assembly, C++, C#)
 
 C# and Python enthusiast.
 
-Appreciate my work? All of my work are free to use and always will be, however I still do have a ko-fi page incase you are feeling generous =) (for longer coding sessions I need coffee).
+Appreciate my work? All of my work are free to use and always will be, however I still do have a ko-fi page incase you are feeling generous =)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y263R28)
 
